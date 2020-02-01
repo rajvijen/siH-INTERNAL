@@ -1,1 +1,1 @@
-# Internal Hackathon SIH
+# SIH Internal Hackathon
